@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('/CSS/Desafio/fontes/idroid.otf') format('opentype');
+    src: url('../fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
 :root {
